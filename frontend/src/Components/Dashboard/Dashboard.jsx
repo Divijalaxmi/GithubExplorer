@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './DashBoard.css';
+import './Dashboard.css';
 import searchIcon from '../../assets/search.jpg';
 
 const DashBoard = () => {
